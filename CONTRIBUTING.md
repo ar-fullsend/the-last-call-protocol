@@ -41,6 +41,8 @@ Then open a PR or share what you learned.
 
 Help us write better explanations, create visuals, improve onboarding, or translate the ideas into other contexts.
 
+If you are contributing artwork or illustrations, read the [Cinematic Bible](docs/CINEMATIC_BIBLE.md) first. It defines the visual identity, character descriptions, color palette, and prompt template for all project imagery.
+
 ### 5. Just Show Up
 
 Star the repo. Share it with one person. Start your own table somewhere. That counts.
