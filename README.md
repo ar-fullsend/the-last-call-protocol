@@ -72,19 +72,7 @@ This is an early-stage, community-driven project. We're building in public:
 
 - The origin story and full narrative
 - A living specification of the Resonance Protocol
-- Open-source prototypes and simulations
 - Documentation, artwork, and movement materials
-
-## 👨‍💻 The Prototype
-
-We've started with a simple multi-agent simulation in Python that models three "friends" (AI personas based on Elena, Marcus, and Sofia) debating world problems and converging on resonant solutions.
-
-See `/prototype` for the code.
-
-Run it:
-```bash
-python prototype/resonance_sim.py
-```
 
 ![As dawn breaks, Elena, Marcus, and Sofia leave The Last Drop carrying the first draft of what will become the Resonance Protocol.](docs/images/scene-07-walking-into-dawn.png)
 
