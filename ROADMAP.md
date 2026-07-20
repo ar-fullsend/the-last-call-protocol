@@ -7,8 +7,8 @@ This is an early, intentionally playful project. The roadmap evolves based on wh
 - [x] Create origin story and narrative
 - [x] Write initial protocol specification (v0.1)
 - [ ] Flesh out character backstories and world-building
-- [ ] Create basic visual identity / assets
-- [ ] Seed GitHub with issues and discussion starters
+- [x] Create basic visual identity / assets (see [Cinematic Bible](docs/CINEMATIC_BIBLE.md))
+- [x] Seed GitHub with issues and discussion starters
 
 ## Phase 1: Community & Experimentation (Summer 2026)
 
