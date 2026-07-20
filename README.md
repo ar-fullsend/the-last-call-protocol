@@ -73,6 +73,7 @@ This is an early-stage, community-driven project. We're building in public:
 - The origin story and full narrative
 - A living specification of the Resonance Protocol
 - Documentation, artwork, and movement materials
+- A [Cinematic Bible](docs/CINEMATIC_BIBLE.md) for visual continuity across all artwork
 
 ![As dawn breaks, Elena, Marcus, and Sofia leave The Last Drop carrying the first draft of what will become the Resonance Protocol.](docs/images/scene-07-walking-into-dawn.png)
 
