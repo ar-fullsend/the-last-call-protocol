@@ -28,10 +28,9 @@ Open an issue with the `story` label sharing a real moment when strangers became
 
 The spec is young. Suggest improvements to the layers, new axioms, better language for the Bar Test, or real-world experiments.
 
-### 3. Build & Prototype
+### 3. Build
 
 Fork the repo and build:
-- New simulations
 - Local "Resonance Table" tools
 - Story-to-action pipelines
 - Anything that passes the Bar Test
