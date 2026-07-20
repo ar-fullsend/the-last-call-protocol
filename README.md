@@ -8,8 +8,6 @@
 
 **[Visit the landing page](https://ar-fullsend.github.io/the-last-call-protocol/)**
 
-![The Last Drop during a stormy Tuesday night.](docs/images/scene-01-the-last-drop-exterior.png)
-
 Three new friends met at a bar. By morning, they had a plan to save the world.
 
 This repository documents **The Resonance Protocol**, a framework for human coordination and collective action born from one unforgettable night at **The Last Drop**.
