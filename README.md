@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/images/hero-the-last-call-protocol.png" alt="The Last Call Protocol" width="100%">
+  <img src="docs/images/hero-the-last-call-protocol.png" alt="The Last Call Protocol" width="100%">
 </p>
 
 # The Last Call Protocol
 
 > "The best ideas for saving the world are often born between the third drink and last call."
 
-![The Last Drop during a stormy Tuesday night.](assets/images/scene-01-the-last-drop-exterior.png)
+![The Last Drop during a stormy Tuesday night.](docs/images/scene-01-the-last-drop-exterior.png)
 
 Three new friends met at a bar. By morning, they had a plan to save the world.
 
@@ -16,25 +16,25 @@ This repository documents **The Resonance Protocol**, a framework for human coor
 
 It was a stormy Tuesday in the city of New Cascade. The power had flickered twice already. At The Last Drop (a dimly lit bar with sticky floors, an ancient jukebox, and a bartender who had heard every story twice) three strangers found themselves at the same corner table.
 
-![Three strangers meet for the first time inside The Last Drop.](assets/images/scene-02-three-strangers-meet.png)
+![Three strangers meet for the first time inside The Last Drop.](docs/images/scene-02-three-strangers-meet.png)
 
 - **Dr. Elena Voss** had just walked out of her job at a major AI lab. She was tired of building systems that optimized for engagement instead of actually helping people.
 - **Marcus Rivera**, a climate infrastructure engineer, had spent the last decade building microgrids in places governments forgot. He was done waiting for policy to catch up with physics.
 - **Sofia Patel**, once an investigative journalist, now poured drinks and listened. She knew that the truth rarely spreads through data. It spreads through stories that make people *feel* something.
 
-![The first round of drinks sparks an unforgettable conversation.](assets/images/scene-03-first-round-of-drinks.png)
+![The first round of drinks sparks an unforgettable conversation.](docs/images/scene-03-first-round-of-drinks.png)
 
 They started with small talk. Then the drinks got stronger. Then the conversation got dangerous.
 
 By 1:17 AM, napkins were covered in diagrams. By 2:03 AM, they had named it. By last call, they had a manifesto.
 
-![Ideas spread across napkins as three strangers begin sketching what will become the Resonance Protocol.](assets/images/scene-04-napkins-covered-in-ideas.png)
+![Ideas spread across napkins as three strangers begin sketching what will become the Resonance Protocol.](docs/images/scene-04-napkins-covered-in-ideas.png)
 
 ## ✨ The Resonance Protocol
 
 The technique they invented isn't a single technology. It's a **living framework** for aligning people and systems toward a healthier world.
 
-![Three strangers realize their conversation has become the beginning of something far greater than themselves.](assets/images/scene-05-the-breakthrough.png)
+![Three strangers realize their conversation has become the beginning of something far greater than themselves.](docs/images/scene-05-the-breakthrough.png)
 
 ### Core Principles
 
@@ -53,7 +53,7 @@ The technique they invented isn't a single technology. It's a **living framework
 5. **Verifiable Trust**  
    Cryptographic commitments, transparent ledgers, and open-source everything. No black boxes when the stakes are planetary.
 
-![The Last Call Manifesto takes shape as the three founders commit their ideas to paper.](assets/images/scene-06-last-call-manifesto.png)
+![The Last Call Manifesto takes shape as the three founders commit their ideas to paper.](docs/images/scene-06-last-call-manifesto.png)
 
 ### The Three Layers
 
@@ -86,7 +86,7 @@ Run it:
 python prototype/resonance_sim.py
 ```
 
-![As dawn breaks, Elena, Marcus, and Sofia leave The Last Drop carrying the first draft of what will become the Resonance Protocol.](assets/images/scene-07-walking-into-dawn.png)
+![As dawn breaks, Elena, Marcus, and Sofia leave The Last Drop carrying the first draft of what will become the Resonance Protocol.](docs/images/scene-07-walking-into-dawn.png)
 
 ## 🧠 Philosophy
 
@@ -96,7 +96,7 @@ It will come from bars, kitchens, campfires, and Discord servers, places where p
 
 The Resonance Protocol is our attempt to capture that and run with it.
 
-![The Resonance Protocol grows beyond one table, becoming a movement built on trust, community, and open collaboration.](assets/images/scene-08-the-resonance-protocol.png)
+![The Resonance Protocol grows beyond one table, becoming a movement built on trust, community, and open collaboration.](docs/images/scene-08-the-resonance-protocol.png)
 
 ## 🔥 Join the Movement
 
