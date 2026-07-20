@@ -34,8 +34,6 @@ By 1:17 AM, napkins were covered in diagrams. By 2:03 AM, they had named it. By 
 
 The technique they invented isn't a single technology. It's a **living framework** for aligning people and systems toward a healthier world.
 
-![Three strangers realize their conversation has become the beginning of something far greater than themselves.](docs/images/scene-05-the-breakthrough.png)
-
 ### Core Principles
 
 1. **Narrative First**  
