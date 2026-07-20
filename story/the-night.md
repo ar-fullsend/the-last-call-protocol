@@ -82,8 +82,6 @@ Sofia raised her glass. They clinked. The lights went out completely thirty seco
 
 They kept talking in the dark for another hour.
 
-![The Last Call Manifesto takes shape as the three founders commit their ideas to paper.](../docs/images/scene-06-last-call-manifesto.png)
-
 ---
 
 They didn't solve everything. They didn't even solve one thing completely.
