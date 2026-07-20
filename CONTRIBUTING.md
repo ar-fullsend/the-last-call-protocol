@@ -64,6 +64,7 @@ Try to follow:
 - `fix:` bug fixes
 - `story:` narrative or lore additions
 - `spec:` changes to the protocol itself
+- `art:` new or updated artwork and images
 
 ## Questions?
 

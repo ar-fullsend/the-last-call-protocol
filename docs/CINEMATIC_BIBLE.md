@@ -1,6 +1,6 @@
 # The Last Call Protocol: Cinematic Bible
 
-**Version 1.0 — The definitive visual reference for all future illustrations, images, and artwork.**
+**Version 1.0. The definitive visual reference for all future illustrations, images, and artwork.**
 
 This document exists for one purpose: so that Scene 9, Scene 25, or Scene 100 looks like it belongs in the same world as Scene 1. Every artist, designer, and AI image generator working on this project must treat this as the single source of truth.
 

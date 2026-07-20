@@ -70,7 +70,7 @@ If it fails the Bar Test, it goes back to the drawing board (or the napkin).
 
 1. **Local Resilience Tables**: Regular gatherings that follow Resonance patterns to identify and act on local opportunities.
 2. **Story-to-Action Pipelines**: Tools that help communities turn stories into funded, verifiable projects.
-3. **Cross-Domain Agent Simulations**: Multi-perspective idea stress-testing, like the prototype in this repo.
+3. **Cross-Domain Agent Simulations**: Multi-perspective idea stress-testing across different expertise and value systems.
 4. **Regenerative Reputation**: Lightweight systems for tracking contributions to human and ecological health.
 
 ## Anti-Patterns (What We Explicitly Reject)
