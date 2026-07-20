@@ -6,6 +6,8 @@ The rain had been falling sideways for hours. Streetlights buzzed and flickered 
 
 At The Last Drop, the lights stayed on. Barely. The old generator in the back hummed like an angry cat. The jukebox was playing something by Tom Waits that felt older than the building itself.
 
+![The Last Drop during a stormy Tuesday night.](../docs/images/scene-01-the-last-drop-exterior.png)
+
 ## Elena Voss
 
 She sat with her shoulders curled forward, nursing a whiskey neat like it owed her money. Forty-two years old. Recently ex-Principal AI Ethicist at one of the big frontier labs. She had left after her team's sixth internal memo about long-term effects on people was ignored in favor of another capability scaling sprint.
@@ -27,6 +29,8 @@ He smiled. "Guilty. Been wiring microgrids in places that don't show up on most 
 The bartender appeared with a third glass and sat down without ceremony. She'd been listening for twenty minutes while pretending to wipe the same spot on the bar.
 
 "You two are terrible at small talk," she said, pouring herself a small measure. "Also, the power's probably going out again in about forty minutes. So if you've got something worth saying, now's the time."
+
+![Three strangers meet for the first time inside The Last Drop.](../docs/images/scene-02-three-strangers-meet.png)
 
 ---
 
@@ -60,7 +64,11 @@ Marcus pulled the napkin toward him and started drawing -- a rough grid, power s
 
 They ordered another round.
 
+![The first round of drinks sparks an unforgettable conversation.](../docs/images/scene-03-first-round-of-drinks.png)
+
 By the time the lights dimmed the second time, the napkins were covered. Elena's were full of loops and arrows, the word *resonance* circled twice. Marcus had mapped something that looked like both a power grid and a neighborhood. Sofia had written a single question at the top of hers and spent an hour working down from it: *What would have to be true for this to be the obvious thing to do?*
+
+![Ideas spread across napkins as three strangers begin sketching what will become the Resonance Protocol.](../docs/images/scene-04-napkins-covered-in-ideas.png)
 
 At 1:52 AM, Elena looked at the word she'd been circling and said:
 
@@ -68,9 +76,13 @@ At 1:52 AM, Elena looked at the word she'd been circling and said:
 
 Marcus nodded slowly. "The Resonance Protocol."
 
+![Three strangers realize their conversation has become the beginning of something far greater than themselves.](../docs/images/scene-05-the-breakthrough.png)
+
 Sofia raised her glass. They clinked. The lights went out completely thirty seconds later.
 
 They kept talking in the dark for another hour.
+
+![The Last Call Manifesto takes shape as the three founders commit their ideas to paper.](../docs/images/scene-06-last-call-manifesto.png)
 
 ---
 
@@ -82,6 +94,10 @@ And they wrote it down.
 
 The rest is what this repository is for.
 
+![As dawn breaks, Elena, Marcus, and Sofia leave The Last Drop carrying the first draft of what will become the Resonance Protocol.](../docs/images/scene-07-walking-into-dawn.png)
+
 ---
 
 *The Last Drop is still there. The table is still in the corner. The napkins are long gone.*
+
+![The Resonance Protocol grows beyond one table, becoming a movement built on trust, community, and open collaboration.](../docs/images/scene-08-the-resonance-protocol.png)
