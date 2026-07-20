@@ -1,8 +1,8 @@
-# The Last Call Protocol — Roadmap
+# The Last Call Protocol: Roadmap
 
-This is an early, ambitious, and intentionally playful project. The roadmap evolves based on who shows up and what resonates.
+This is an early, intentionally playful project. The roadmap evolves based on who shows up and what resonates.
 
-## Phase 0: Foundations (Now — June 2026)
+## Phase 0: Foundations (Now, June 2026)
 
 - [x] Create origin story and narrative
 - [x] Write initial protocol specification (v0.1)
@@ -13,7 +13,7 @@ This is an early, ambitious, and intentionally playful project. The roadmap evol
 
 ## Phase 1: Community & Experimentation (Summer 2026)
 
-- Launch "Resonance Tables" — a simple guide + template for running your own local gatherings
+- Launch "Resonance Tables": a simple guide + template for running your own local gatherings
 - Expand the prototype into a web-playable version or interactive notebook
 - Collect real stories from contributors
 - Iterate on the protocol spec based on feedback (v0.2)
@@ -31,7 +31,7 @@ This is an early, ambitious, and intentionally playful project. The roadmap evol
 - Deploy production-grade coordination infrastructure
 - Develop the full multi-layer stack (narrative + forge + resonance field)
 - Create educational programs and fellowships
-- Support the emergence of many autonomous "Last Call" nodes worldwide
+- Help many independent "Last Call" nodes get started worldwide
 
 ## Guiding Principles for Prioritization
 

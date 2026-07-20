@@ -1,6 +1,6 @@
 # Contributing to The Last Call Protocol
 
-First off: **thank you**. Whether you found this repo because the story resonated, because you want to build weird beautiful things that help the world, or because you were also at a bar recently having dangerous conversations — you're in the right place.
+First off: **thank you**. Whether you found this repo because the story resonated, because you want to build weird beautiful things that help the world, or because you were also at a bar recently having dangerous conversations: you're in the right place.
 
 ## Our Ethos
 
@@ -8,7 +8,7 @@ We are trying to build something that feels like that night at The Last Drop:
 
 - Honest
 - A little messy
-- Deeply human
+- Human
 - Surprisingly effective
 
 We value:
@@ -52,7 +52,7 @@ Star the repo. Share it with one person. Start your own table somewhere. That co
 2. Create a feature branch (`feature/amazing-idea`)
 3. Make your changes
 4. Write a clear PR description (what, why, how it was tested)
-5. Be kind in code review — we're all learning
+5. Be kind in code review. We're all learning.
 
 ## Commit Messages
 
@@ -70,4 +70,4 @@ Open an issue with the `question` label. We're figuring this out together.
 
 ---
 
-*There are no gatekeepers here. Only people who decided the conversation was worth continuing.*
+*No gatekeepers. Just people who kept talking.*

@@ -1,18 +1,18 @@
 # The Resonance Protocol v0.1
 
-**Born at The Last Drop — May 2026**
+**Born at The Last Drop, May 2026**
 
-> A living specification for human coordination at planetary scale.
+> A living specification for human coordination at scale.
 
 ## Vision
 
 We are building the social and technical infrastructure that makes large-scale cooperation feel as natural and rewarding as a great conversation at a bar with new friends.
 
-The Resonance Protocol is not a product. It is a **pattern language** and **implementation toolkit** for creating regenerative, story-aligned, verifiable collective action.
+The Resonance Protocol is not a product. It is a **pattern language** and **implementation toolkit** for regenerative, story-driven, verifiable collective action.
 
 ## Core Axioms
 
-1. **Humans are the point.** Technology serves human connection and planetary health — never the other way around.
+1. **Humans are the point.** Technology serves human connection and the health of ecosystems. Not the other way around.
 2. **Story is infrastructure.** The narratives we share determine what we can build together.
 3. **Trust must be verifiable and cheap.** Cryptography and transparency reduce the cost of cooperation.
 4. **Regeneration is the only sustainable metric.** Growth without regeneration is extraction by another name.
@@ -20,7 +20,7 @@ The Resonance Protocol is not a product. It is a **pattern language** and **impl
 
 ## The Three Layers
 
-### Layer 1: The Spark — Human Connection & Narrative
+### Layer 1: The Spark (Human Connection & Narrative)
 
 **Goal:** Create conditions where unlikely people can meet, feel safe, and co-dream.
 
@@ -32,7 +32,7 @@ The Resonance Protocol is not a product. It is a **pattern language** and **impl
 
 **Key Question:** Does this increase the surface area for meaningful human encounter?
 
-### Layer 2: The Forge — Co-Creation & Prototyping
+### Layer 2: The Forge (Co-Creation & Prototyping)
 
 **Goal:** Turn shared narrative into testable, improvable protocols and artifacts.
 
@@ -40,20 +40,20 @@ The Resonance Protocol is not a product. It is a **pattern language** and **impl
 - Multi-perspective ideation frameworks (inspired by the three founders)
 - Rapid prototyping loops with clear success criteria
 - Liquid democracy + reputation-weighted input
-- "Empathy oracles" — mechanisms that surface lived experience alongside data
+- "Empathy oracles": mechanisms that surface lived experience alongside data
 - Open-source everything by default
 
 **Key Question:** Can three strangers understand, critique, and improve this within one evening?
 
-### Layer 3: The Resonance Field — Scaling & Feedback
+### Layer 3: The Resonance Field (Scaling & Feedback)
 
 **Goal:** Create self-reinforcing loops where regenerative action becomes the path of least resistance.
 
 **Components:**
-- Verifiable impact ledgers (what actually improved human + planetary health?)
+- Verifiable impact ledgers (what actually improved human and ecosystem health?)
 - Regenerative tokenomics / incentive design
 - Cross-scale coordination (local ↔ bioregional ↔ global)
-- Narrative propagation systems that reward accuracy and emotional truth
+- Story systems that spread based on accuracy, not just what gets clicks
 - Anti-capture mechanisms (the Bar Test at every scale)
 
 **Key Question:** Does participating in this system make people and ecosystems healthier over time?
@@ -68,10 +68,10 @@ If it fails the Bar Test, it goes back to the drawing board (or the napkin).
 
 ## Initial Use Cases (v0.1)
 
-1. **Local Resilience Tables** — Regular gatherings that follow Resonance patterns to identify and act on local opportunities.
-2. **Story-to-Action Pipelines** — Tools that help communities turn personal and collective stories into funded, verifiable projects.
-3. **Cross-Domain Agent Simulations** — Like the prototype in this repo, used for exploring ideas before real-world deployment.
-4. **Regenerative Reputation** — Lightweight systems for tracking contributions to human and ecological health.
+1. **Local Resilience Tables**: Regular gatherings that follow Resonance patterns to identify and act on local opportunities.
+2. **Story-to-Action Pipelines**: Tools that help communities turn stories into funded, verifiable projects.
+3. **Cross-Domain Agent Simulations**: Multi-perspective idea stress-testing, like the prototype in this repo.
+4. **Regenerative Reputation**: Lightweight systems for tracking contributions to human and ecological health.
 
 ## Anti-Patterns (What We Explicitly Reject)
 
@@ -91,6 +91,6 @@ This is a living document. Open an issue or pull request with:
 
 ---
 
-*Version 0.1 — Drafted on napkins and in the dark. Open to radical improvement.*
+*Version 0.1. Drafted on napkins and in the dark. Open to radical improvement.*
 
 **Next versions will be written by the people who show up.**

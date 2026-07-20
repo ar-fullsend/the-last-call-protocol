@@ -29,12 +29,12 @@ class Resonator:
             ],
             "coordination": [
                 "Build decentralized 'story DAOs' where communities propose and fund projects through shared narratives, not just proposals.",
-                "Create cryptographic 'empathy commitments' — people stake reputation on understanding opposing views before voting.",
+                "Create cryptographic 'empathy commitments': people stake reputation on understanding opposing views before voting.",
                 "Develop a global 'last call protocol' app that matches strangers with complementary skills for local action."
             ],
             "meaning": [
-                "Launch a movement of 'Bar Tables for Earth' — regular gatherings where strangers discuss one hard problem and leave with one concrete action.",
-                "Build AI storytellers that help people see how their daily choices connect to planetary health.",
+                "Launch a movement of 'Bar Tables for Earth': regular gatherings where people discuss one hard problem and leave with one concrete action.",
+                "Build AI storytellers that help people see how their daily choices connect to the health of the planet.",
                 "Create open rituals and festivals that celebrate regeneration instead of consumption."
             ]
         }
@@ -122,8 +122,8 @@ def run_resonance_session(problem="climate"):
     print("=" * 60)
 
     print("\nThey clink glasses. The night isn't over. The real work starts tomorrow.\n")
-    print("This simulation demonstrates how diverse perspectives + shared purpose +")
-    print("a focus on human narrative can surface better solutions.\n")
+    print("This simulation shows how different perspectives and a shared story")
+    print("can surface better ideas than any one person would land on alone.\n")
 
 
 if __name__ == "__main__":

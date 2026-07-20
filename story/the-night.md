@@ -1,16 +1,16 @@
 # The Night at The Last Drop
 
-*Tuesday, May 12th, 2026 — New Cascade*
+*Tuesday, May 12th, 2026. New Cascade.*
 
 The rain had been falling sideways for hours. Streetlights buzzed and flickered as another rolling blackout rolled through the city. Most people had gone home. The sensible ones, anyway.
 
-At The Last Drop, the lights stayed on — barely. The old generator in the back hummed like an angry cat. The jukebox was playing something by Tom Waits that felt older than the building itself.
+At The Last Drop, the lights stayed on. Barely. The old generator in the back hummed like an angry cat. The jukebox was playing something by Tom Waits that felt older than the building itself.
 
 Three people who had never met occupied the corner booth near the back window.
 
 ## Elena Voss
 
-She sat with her shoulders curled forward, nursing a whiskey neat like it owed her money. Forty-two years old. Recently ex-Principal AI Ethicist at one of the big frontier labs. She had left after her team’s sixth internal memo about long-term human flourishing was ignored in favor of another capability scaling sprint.
+She sat with her shoulders curled forward, nursing a whiskey neat like it owed her money. Forty-two years old. Recently ex-Principal AI Ethicist at one of the big frontier labs. She had left after her team’s sixth internal memo about long-term effects on people was ignored in favor of another capability scaling sprint.
 
 Tonight she wasn’t sure if she was mourning her career or celebrating her freedom.
 
@@ -34,7 +34,7 @@ The bartender appeared with a third glass and sat down without ceremony. She’d
 
 What started as venting quickly became dangerous.
 
-Elena talked about alignment — not AI alignment, but *human system alignment*. How we had built civilizations on stories of scarcity and competition that no longer served us.
+Elena talked about alignment, not AI alignment but *human system alignment*. How we had built civilizations on stories of scarcity and competition that no longer served us.
 
 Marcus talked about infrastructure as story. "Every solar array I install is a physical argument that another world is possible. But stories travel faster than electrons."
 
@@ -72,7 +72,7 @@ They kept talking in the dark for another hour.
 
 They didn’t solve everything. They didn’t even solve one thing completely.
 
-But they did something rarer: they remembered how to *want* a better world *together*, across different expertise, different wounds, and different hopes.
+But they did something rarer: they wanted the same thing at the same time.
 
 And they wrote it down.
 
@@ -80,7 +80,7 @@ The rest is what this repository is for.
 
 ---
 
-*Some nights change the people in them. A very small number of nights change what those people believe is possible for everyone else.*
+*Some nights you leave different. This was one of those.*
 
 **The Last Drop is still there. The table is still in the corner. The napkins are long gone.**
 

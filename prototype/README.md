@@ -12,7 +12,7 @@ A multi-agent simulation where three AI personas (Elena, Marcus, and Sofia) sit 
 python resonance_sim.py
 ```
 
-Try running it multiple times — the ideas and scores have randomness to simulate real conversation.
+Try running it multiple times. The ideas and scores have randomness to simulate real conversation.
 
 ### Future directions
 
