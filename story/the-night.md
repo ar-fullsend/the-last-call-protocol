@@ -99,3 +99,7 @@ The rest is what this repository is for.
 *The Last Drop is still there. The table is still in the corner. The napkins are long gone.*
 
 ![The Resonance Protocol grows beyond one table, becoming a movement built on trust, community, and open collaboration.](../docs/images/scene-08-the-resonance-protocol.png)
+
+*Not a perfect world. A world where people learned how to build the future together.*
+
+![A thriving community shaped by the Resonance Protocol.](../docs/images/world-after-resonance.png)
