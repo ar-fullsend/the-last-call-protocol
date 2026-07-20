@@ -6,7 +6,6 @@ This is an early, intentionally playful project. The roadmap evolves based on wh
 
 - [x] Create origin story and narrative
 - [x] Write initial protocol specification (v0.1)
-- [x] Build first prototype (multi-agent resonance simulator)
 - [ ] Flesh out character backstories and world-building
 - [ ] Create basic visual identity / assets
 - [ ] Seed GitHub with issues and discussion starters
@@ -14,16 +13,14 @@ This is an early, intentionally playful project. The roadmap evolves based on wh
 ## Phase 1: Community & Experimentation (Summer 2026)
 
 - Launch "Resonance Tables": a simple guide + template for running your own local gatherings
-- Expand the prototype into a web-playable version or interactive notebook
 - Collect real stories from contributors
 - Iterate on the protocol spec based on feedback (v0.2)
 - Create onboarding materials and a "How to start your own table" guide
 
-## Phase 2: Tooling & Prototypes (Late 2026)
+## Phase 2: Tooling (Late 2026)
 
 - Build lightweight tools for story capture and action tracking
 - Explore simple verifiable credentials or reputation primitives
-- Create simulation environments for testing coordination patterns at larger scales
 - Partner with existing regenerative projects and DAOs for real-world pilots
 
 ## Phase 3: The Field (2027+)
