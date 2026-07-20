@@ -6,6 +6,8 @@
 
 > "The best ideas for saving the world are often born between the third drink and last call."
 
+**[Visit the landing page](https://ar-fullsend.github.io/the-last-call-protocol/)**
+
 ![The Last Drop during a stormy Tuesday night.](docs/images/scene-01-the-last-drop-exterior.png)
 
 Three new friends met at a bar. By morning, they had a plan to save the world.
